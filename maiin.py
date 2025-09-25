@@ -1,0 +1,1 @@
+oggettitrovati = 00
